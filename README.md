@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I am Yusuf Razak 👋
 
-<!--
-**yusufrazak10/yusufrazak10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Full Stack Web Developer | Software Engineer
 
-Here are some ideas to get you started:
+- 🔍 I’m currently exploring new opportunities in web development
+- 🌱 I’m always learning and improving my skills in full stack technologies
+- 💬 Ask me about: **coding, tech, web development, or anything you’re curious about**
+- 🎮 Fun fact: I told myself “just one more game” — five games and zero commits later…
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 GitHub Stats
+
+![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufrazak10&show_icons=true&theme=radical)
+
+---
+
+### 🌐 Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufrazak10&layout=compact&theme=radical)
+
